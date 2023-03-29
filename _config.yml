@@ -1,6 +1,5 @@
 title:               Dbrr Blog
-url:                 https://dbrrblog.github.io
-baseurl:             ""
+baseurl:             "dbrrblog"
 
 markdown:            kramdown
 highlighter:         rouge
