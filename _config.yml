@@ -1,9 +1,9 @@
+remote-theme:        celeste
 title:               Dbrr Blog
 baseurl:             "dbrrblog"
 
 markdown:            kramdown
 highlighter:         rouge
-remote-theme:        celeste
 
 exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
 
